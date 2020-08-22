@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Custom)(type Legacy)(uri ${KIPRJMOD}/Lib/Custom.lib)(options "")(descr ""))
+  (lib (name Desligador-rescue)(type Legacy)(uri ${KIPRJMOD}/Desligador-rescue.lib)(options "")(descr ""))
+)
